@@ -1,0 +1,17 @@
+C:\Users\busra\OneDrive\Masaüstü\c#odevler\KütüphaneKyıtSistemiV2\KütüphaneKyıtSistemiV2\bin\Debug\net6.0-windows\KütüphaneKyıtSistemiV2.exe
+C:\Users\busra\OneDrive\Masaüstü\c#odevler\KütüphaneKyıtSistemiV2\KütüphaneKyıtSistemiV2\bin\Debug\net6.0-windows\KütüphaneKyıtSistemiV2.deps.json
+C:\Users\busra\OneDrive\Masaüstü\c#odevler\KütüphaneKyıtSistemiV2\KütüphaneKyıtSistemiV2\bin\Debug\net6.0-windows\KütüphaneKyıtSistemiV2.runtimeconfig.json
+C:\Users\busra\OneDrive\Masaüstü\c#odevler\KütüphaneKyıtSistemiV2\KütüphaneKyıtSistemiV2\bin\Debug\net6.0-windows\KütüphaneKyıtSistemiV2.dll
+C:\Users\busra\OneDrive\Masaüstü\c#odevler\KütüphaneKyıtSistemiV2\KütüphaneKyıtSistemiV2\bin\Debug\net6.0-windows\KütüphaneKyıtSistemiV2.pdb
+C:\Users\busra\OneDrive\Masaüstü\c#odevler\KütüphaneKyıtSistemiV2\KütüphaneKyıtSistemiV2\obj\Debug\net6.0-windows\KütüphaneKyıtSistemiV2.csproj.AssemblyReference.cache
+C:\Users\busra\OneDrive\Masaüstü\c#odevler\KütüphaneKyıtSistemiV2\KütüphaneKyıtSistemiV2\obj\Debug\net6.0-windows\KütüphaneKyıtSistemiV2.Form1.resources
+C:\Users\busra\OneDrive\Masaüstü\c#odevler\KütüphaneKyıtSistemiV2\KütüphaneKyıtSistemiV2\obj\Debug\net6.0-windows\KütüphaneKyıtSistemiV2.csproj.GenerateResource.cache
+C:\Users\busra\OneDrive\Masaüstü\c#odevler\KütüphaneKyıtSistemiV2\KütüphaneKyıtSistemiV2\obj\Debug\net6.0-windows\KütüphaneKyıtSistemiV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\OneDrive\Masaüstü\c#odevler\KütüphaneKyıtSistemiV2\KütüphaneKyıtSistemiV2\obj\Debug\net6.0-windows\KütüphaneKyıtSistemiV2.AssemblyInfoInputs.cache
+C:\Users\busra\OneDrive\Masaüstü\c#odevler\KütüphaneKyıtSistemiV2\KütüphaneKyıtSistemiV2\obj\Debug\net6.0-windows\KütüphaneKyıtSistemiV2.AssemblyInfo.cs
+C:\Users\busra\OneDrive\Masaüstü\c#odevler\KütüphaneKyıtSistemiV2\KütüphaneKyıtSistemiV2\obj\Debug\net6.0-windows\KütüphaneKyıtSistemiV2.csproj.CoreCompileInputs.cache
+C:\Users\busra\OneDrive\Masaüstü\c#odevler\KütüphaneKyıtSistemiV2\KütüphaneKyıtSistemiV2\obj\Debug\net6.0-windows\KütüphaneKyıtSistemiV2.dll
+C:\Users\busra\OneDrive\Masaüstü\c#odevler\KütüphaneKyıtSistemiV2\KütüphaneKyıtSistemiV2\obj\Debug\net6.0-windows\refint\KütüphaneKyıtSistemiV2.dll
+C:\Users\busra\OneDrive\Masaüstü\c#odevler\KütüphaneKyıtSistemiV2\KütüphaneKyıtSistemiV2\obj\Debug\net6.0-windows\KütüphaneKyıtSistemiV2.pdb
+C:\Users\busra\OneDrive\Masaüstü\c#odevler\KütüphaneKyıtSistemiV2\KütüphaneKyıtSistemiV2\obj\Debug\net6.0-windows\KütüphaneKyıtSistemiV2.genruntimeconfig.cache
+C:\Users\busra\OneDrive\Masaüstü\c#odevler\KütüphaneKyıtSistemiV2\KütüphaneKyıtSistemiV2\obj\Debug\net6.0-windows\ref\KütüphaneKyıtSistemiV2.dll
